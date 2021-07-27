@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vinicius Holtman</h1>
-- 🔭 I’m currently working on [Dashboard Covid-19](https://github.com/Vinicius-Holtman/Dashboard-Covid)
 
 - 🌱 I’m currently learning **JavaScript, NodeJs, TypeScript, NextJs and ReactJs**
 
