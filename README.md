@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinicius Holtman</h1>
 
-- 🌱 I’m currently learning **JavaScript, NodeJs, TypeScript, NextJs and ReactJs**
+- 🌱 I’m currently learning **NodeJs, GraphQL, TypeScript, NextJs and ReactJs**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, MySQL**
 
