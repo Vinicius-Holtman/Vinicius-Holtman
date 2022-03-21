@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **NodeJs, GraphQL, TypeScript, NextJs and ReactJs**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, MySQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, MySQL, TypeScript, NextJs, ReactJs, NodeJs**
 
 - 📫 How to reach me **vinicius.holt.dev@gmail.com**
 
